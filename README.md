@@ -39,13 +39,13 @@ Ce projet a été réalisé dans le cadre du cours d'optimisation non linéaire 
 
 ## Auteurs
 
-Oumayma Khlif
+**Oumayma Khlif**
 
-Eya Zouche
+**Eya Zouche**
 
-Saba Kallel
+**Saba Kallel**
 
-Nour Mellah
+**Nour Mellah**
 
 ---
 
