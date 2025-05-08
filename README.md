@@ -37,6 +37,11 @@ python cylinder_optimization.py
 ## Contexte académique
 Ce projet a été réalisé dans le cadre du cours d'optimisation non linéaire à [Nom de votre institution]. Il illustre l'application des méthodes d'optimisation à un problème d'ingénierie concret.
 
+## Auteurs
+Oumayma Khlif
+Eya Zouche
+Saba Kallel
+Nour Mellah
 
 ---
 
